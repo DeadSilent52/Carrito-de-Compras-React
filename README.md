@@ -1,6 +1,6 @@
 # Carrito de Compras con React + TypeScript + Vite
 
-![Carrito de Compras React](https://github.com/user-attachments/assets/15ef02ab-b4ac-4582-8d98-865e911e8a94)
+![Carrito de Compras React](https://github.com/user-attachments/assets/518d33a7-62a7-46cb-81e9-441e18bc695a)
 
 Este proyecto es una aplicación interactiva que permite gestionar un carrito de compras de manera dinámica.
 
